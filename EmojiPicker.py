@@ -2,13 +2,13 @@
 
 """Emoji Picker for Albert
 Usage: :<emoji name>
-Example: :see_no_evil"""
+Example: :see no evil"""
 
 from albertv0 import *
 
 __iid__ = "PythonInterface/v0.1"
 __prettyname__ = "Albert Emoji Picker"
-__version__ = "1.0"
+__version__ = "0.1"
 __trigger__ = ":"
 __author__ = "Tim Zeitz"
 __dependencies__ = []
