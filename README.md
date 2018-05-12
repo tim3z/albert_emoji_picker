@@ -9,4 +9,5 @@ This is just the result of an afternoon of hacking - a ton of improvements are p
 * An index datastructure to speed up the matching - though surprisingly speed seems to be okish even with this simplistic implementation
 * Icons
 * Better ranking of search results
+* Tracking recently used
 * ...
