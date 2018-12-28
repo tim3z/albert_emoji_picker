@@ -58,7 +58,7 @@ def get_emoji_data_version(path):
                 return datetime.datetime.strptime(line.strip(), "# Date: %Y-%m-%d, %H:%M:%S GMT")
 
 def build_index():
-    emojis = []
+    emojis.clear()
 
     with open(emoji_data_path) as f:
         for line in f:
